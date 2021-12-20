@@ -1,7 +1,7 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: My Project
+##### 11.21.21
 
-Text
+MMy project is to
 
 [Next](entry02.md)
 
