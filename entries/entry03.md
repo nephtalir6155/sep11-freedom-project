@@ -1,7 +1,19 @@
 # Entry 3
-##### X/X/XX
+##### 2/7/22
 
-Text
+## Since Last Blog Entry
+
+In the past 6 weeks since my last blog entry, I've been continuting to learn my tool.(KaBoom JS)
+
+
+
+##  Future Plans
+
+
+
+
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
