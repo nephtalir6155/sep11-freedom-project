@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Nephtali Roach
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about my progress on making a 2d platformer using js tools. The purpose of this blog is to show my progression learning my tool and creating my product.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am remaking a super mario bros but with a twist. This blog will walk through my process of independently studying kaboom in order to make my remade game.
 
 ## Links
 
