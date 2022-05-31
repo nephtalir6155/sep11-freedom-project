@@ -5,16 +5,16 @@ by Nephtali Roach
 The "Freedom Project" for SEP11 is all about my progress on making a 2d platformer using js tools. The purpose of this blog is to show my progression learning my tool and creating my product.
 
 ## Content
-For my project, I am remaking a super mario bros but with a twist. This blog will walk through my process of independently studying kaboom in order to make my remade game.
+For my project, I am remaking a super mario bros. This blog will walk through my process of independently studying kaboom in order to make my remade game. 
 
 ## Links
 
-Product
+[Product] (https://replit.com/@nephtalir6155/FP-Classic-Super-Mario-Remake#code/main.js)
 
-Presentation
+[Presentation] (https://docs.google.com/presentation/d/1r_3vdCNOaKkekQFAF5R6zt1EShFhsvNHWMweik9qn4I/edit?usp=sharing)
 
 ## Implications
-X
+
 
 ---
 
